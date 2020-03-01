@@ -1,2 +1,3 @@
 # Scientific Programming Class
- Language is in Pyhton
+ Language is in Python
+
